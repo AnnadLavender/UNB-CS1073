@@ -1,0 +1,20 @@
+
+Card Holder Name: Mateo Garcia
+Credit Card Number: 1234123412341234
+Current Balance Owing: 158.55
+Amount of Interest: 31.710000000000004
+
+Card Holder Name: Sarah Jones
+Credit Card Number: 246813578642
+Current Balance Owing: 1175.89
+Amount of Interest: 199.90130000000002
+
+Card Holder Name: Justin Tremblay
+Credit Card Number: 234510106789
+Current Balance Owing: 0.0
+Amount of Interest: 0.0
+
+Card Holder Name: Jill Thomas
+Credit Card Number: 3579864278901234
+Current Balance Owing: 42.80000000000001
+Amount of Interest: 5.350000000000001

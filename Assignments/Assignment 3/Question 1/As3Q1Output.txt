@@ -1,0 +1,15 @@
+Dog 1:
+Dog name: Kiki
+Age: 3
+Age in person years: 21
+
+Dog 2:
+Dog name: Hamburger
+Age: 4
+Age in person years: 28
+
+Dog 3:
+Dog name: Sashimi
+Age: 3
+Age in person years: 21
+
