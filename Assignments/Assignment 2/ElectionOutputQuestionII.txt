@@ -1,0 +1,24 @@
+Candidate 1:
+Name: Ron McDonald
+Number of Votes: 280
+Party: Conservative Party
+Slogan: Prosperity and Progress
+
+Candidate 2:
+Name: Wendy Thomas
+Number of Votes: 364
+Party: Green Party
+Slogan: Taking Action, Getting Results
+
+Candidate 3:
+Name: Mary Brown
+Number of Votes: 342
+Party: Liberal Party
+Slogan: Make People Smile Again
+
+Candidate 4:
+Name: Rose Webber
+Number of Votes: 0
+Party: Peace Party
+Slogan: Be Happy Everyday
+

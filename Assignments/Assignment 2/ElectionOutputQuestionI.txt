@@ -1,0 +1,15 @@
+Candidate 1:
+Name: Ron McDonald
+Number of Votes: 0
+Party: Conservative Party
+
+Candidate 2:
+Name: Wendy Thomas
+Number of Votes: 0
+Party: Green Party
+
+Candidate 3:
+Name: Mary Brown
+Number of Votes: 0
+Party: Liberal Party
+
